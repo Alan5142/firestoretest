@@ -1,16 +1,15 @@
-# firestoretest
+# Tarea 7 - Queries a Firebase
 
-A new Flutter project.
+App de chats tipo Whatsapp usando Firestore
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+Setup de Flutter y firestore:
+https://firebase.flutter.dev/docs/overview/
 
-A few resources to get you started if this is your first Flutter project:
+## App Screenshot
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+<img src="screenshot/Capture0.png" width="240" height="480" />
+<img src="screenshot/Capture1.png" width="240" height="480" />
+<img src="screenshot/Capture2.png" width="720" height="240" />
+<img src="screenshot/Capture3.png" width="720" height="240" />

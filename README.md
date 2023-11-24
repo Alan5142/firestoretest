@@ -1,11 +1,20 @@
 # Tarea 7 - Queries a Firebase
 
-App de chats tipo Whatsapp usando Firestore
+App de chats tipo Whatsapp usando Firestore, temas vistos:
+
+- querys a Cloud Firestore
+- FirestoreListView
 
 ## Getting Started
 
 Setup de Flutter y firestore:
 https://firebase.flutter.dev/docs/overview/
+
+Recuerda que despues de clonar el proyecto, abrir una terminal **dentro** de la carpeta del proyecto y ejecutar el comando:
+
+```sh
+flutter packages get
+``` 
 
 ## App Screenshot
 
